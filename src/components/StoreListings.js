@@ -41,6 +41,8 @@ export default function StoreListings() {
                         </Col>
                     </Row>
                 </Row>
+
+
                 <Row style={{ borderBottom: "1px solid #E8E9EB", display: "flex", justifyContent: "space-evenly", marginTop: "40px"}} >
                     <Row>
                         <Col xs=".5" >
@@ -72,7 +74,7 @@ export default function StoreListings() {
                         </Col>
                     </Row>
                 </Row>
-                
+
             </Container>
         </div >
     )
