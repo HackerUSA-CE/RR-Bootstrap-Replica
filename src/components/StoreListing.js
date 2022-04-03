@@ -79,7 +79,7 @@ function StoreListing() {
                                 <p>Delivery</p>
                             </Col>
                         </Row>
-                    </Row>
+                </Row>
 
 
             </Container>
@@ -88,4 +88,3 @@ function StoreListing() {
 }
 
 export default StoreListing
-
