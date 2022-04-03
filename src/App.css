@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,12 +31,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.navBar {
-  display: flex;
-  flex-direction: row;
-  -webkit-box-align: center;
-  align-items: center;
-  width: 100;
 }
